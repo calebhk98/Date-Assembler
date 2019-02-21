@@ -1,0 +1,8 @@
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Birth Date String\Birth Date String\bin\Debug\Birth Date String.exe.config
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Birth Date String\Birth Date String\bin\Debug\Birth Date String.exe
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Birth Date String\Birth Date String\bin\Debug\Birth Date String.pdb
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Birth Date String\Birth Date String\obj\Debug\Birth_Date_String.Form1.resources
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Birth Date String\Birth Date String\obj\Debug\Birth_Date_String.Properties.Resources.resources
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Birth Date String\Birth Date String\obj\Debug\Birth Date String.csproj.GenerateResource.Cache
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Birth Date String\Birth Date String\obj\Debug\Birth Date String.exe
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\Birth Date String\Birth Date String\obj\Debug\Birth Date String.pdb
